@@ -1,6 +1,6 @@
 {
-    "name": "api-clima-location",
-    "version": "1.0.0",
+    "name": "api-climate-location",
+    "version": "1.0.1",
     "description": "API for climate and location",
     "main": "src/index.js",
     "scripts": {
